@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "网络爬虫", "网络爬虫\网络爬虫.csproj", "{BADB3AA7-AE19-4860-AC43-FC91709E6E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADB3AA7-AE19-4860-AC43-FC91709E6E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADB3AA7-AE19-4860-AC43-FC91709E6E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADB3AA7-AE19-4860-AC43-FC91709E6E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADB3AA7-AE19-4860-AC43-FC91709E6E83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

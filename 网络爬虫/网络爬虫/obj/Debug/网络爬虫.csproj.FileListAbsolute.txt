@@ -1,0 +1,9 @@
+E:\vs2012Project\网络爬虫\网络爬虫\bin\Debug\网络爬虫.exe.config
+E:\vs2012Project\网络爬虫\网络爬虫\bin\Debug\网络爬虫.exe
+E:\vs2012Project\网络爬虫\网络爬虫\bin\Debug\网络爬虫.pdb
+E:\vs2012Project\网络爬虫\网络爬虫\obj\Debug\网络爬虫.csprojResolveAssemblyReference.cache
+E:\vs2012Project\网络爬虫\网络爬虫\obj\Debug\网络爬虫.Form1.resources
+E:\vs2012Project\网络爬虫\网络爬虫\obj\Debug\网络爬虫.Properties.Resources.resources
+E:\vs2012Project\网络爬虫\网络爬虫\obj\Debug\网络爬虫.csproj.GenerateResource.Cache
+E:\vs2012Project\网络爬虫\网络爬虫\obj\Debug\网络爬虫.exe
+E:\vs2012Project\网络爬虫\网络爬虫\obj\Debug\网络爬虫.pdb
